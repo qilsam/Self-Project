@@ -41,7 +41,7 @@ public class Solution {
             }
         }
 
-        // If all values from 1 to N are present in A, return N+1
+        // If values from 1 to N are present in A, return N+1
         return lengthA + 1;
     }
 }
