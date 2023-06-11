@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0427c3b9-0a10-4c5a-9681-00d0d75ee759" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/JetClient/state.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PersonalProjects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/returnSmallestPosInteger/returnSmallestPosInteger.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/returnSmallestPosInteger/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/returnSmallestPosInteger/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="0427c3b9-0a10-4c5a-9681-00d0d75ee759" name="Changes" comment="find min num" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +47,18 @@
       <option name="presentableId" value="Default" />
       <updated>1686476055916</updated>
     </task>
+    <task id="LOCAL-00001" summary="find min num">
+      <created>1686481545221</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686481545222</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="find min num" />
+    <option name="LAST_COMMIT_MESSAGE" value="find min num" />
   </component>
 </project>
