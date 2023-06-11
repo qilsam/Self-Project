@@ -6,20 +6,20 @@ public class Main {
         int arraySize;
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Enter number of elements to store: ");
+        System.out.println("Enter how many numbers to store (Max 10): ");
         arraySize = sc.nextInt();
-        int[] arrayMemory = new int[10];
+        int[] A = new int[10];
 
-        System.out.println("Enter the elements of the array: ");
+        System.out.println("Enter the numbers: ");
 
         for(int i = 0; i < arraySize; i++)
         {
-            arrayMemory[i] = sc.nextInt();
+            A[i] = sc.nextInt();
         }
 
-        int[] A = arrayMemory;
+        //int[] A = arrayMemory;
 
         Solution minNum = new Solution();
-        System.out.println(minNum.solution(A));
+        System.out.println("Smallest positive integer that is missing is: " + minNum.solution(A));
     }
 }
