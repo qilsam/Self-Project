@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0427c3b9-0a10-4c5a-9681-00d0d75ee759" name="Changes" comment="find min num">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/returnSmallestPosInteger/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/returnSmallestPosInteger/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="0427c3b9-0a10-4c5a-9681-00d0d75ee759" name="Changes" comment="find min num" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,7 +116,21 @@
       <option name="project" value="LOCAL" />
       <updated>1686496571988</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="find min num">
+      <created>1686496625028</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1686496625028</updated>
+    </task>
+    <task id="LOCAL-00010" summary="find min num">
+      <created>1686496630295</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1686496630295</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
