@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0427c3b9-0a10-4c5a-9681-00d0d75ee759" name="Changes" comment="find min num" />
+    <list default="true" id="0427c3b9-0a10-4c5a-9681-00d0d75ee759" name="Changes" comment="find min num">
+      <change afterPath="$PROJECT_DIR$/wordCharCount/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordCharCount/src/countChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordCharCount/src/countWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordCharCount/wordCharCount.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686496630295</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="find min num">
+      <created>1686497517520</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1686497517520</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

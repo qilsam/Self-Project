@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PersonalProjects.iml" filepath="$PROJECT_DIR$/PersonalProjects.iml" />
       <module fileurl="file://$PROJECT_DIR$/returnSmallestPosInteger/returnSmallestPosInteger.iml" filepath="$PROJECT_DIR$/returnSmallestPosInteger/returnSmallestPosInteger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wordCharCount/wordCharCount.iml" filepath="$PROJECT_DIR$/wordCharCount/wordCharCount.iml" />
     </modules>
   </component>
 </project>
