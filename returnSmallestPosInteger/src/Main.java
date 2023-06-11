@@ -26,7 +26,6 @@ public class Main {
             System.out.println("Please enter a number.");
         }
 
-
         Solution minNum = new Solution();
         System.out.println("Smallest positive integer that is missing is: " + minNum.solution(A));
     }
