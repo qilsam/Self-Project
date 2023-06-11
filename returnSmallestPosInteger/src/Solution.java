@@ -21,21 +21,21 @@ public class Solution {
     {
         int lengthA = A.length;
 
-        boolean[] present = new boolean[lengthA + 1];
+        boolean[] numPresent = new boolean[lengthA + 1];
 
         // Mark corresponding index as true for all positive values in A
         for(int i = 0; i < lengthA; i++)
         {
             if(A[i] > 0 && A[i] <= lengthA)
             {
-                present[A[i]] = true;
+                numPresent[A[i]] = true;
             }
         }
 
         // Find the first index which is not marked as true
         for(int i = 1; i <= lengthA; i++)
         {
-            if(!present[i])
+            if(!numPresent[i])
             {
                 return i;
             }
