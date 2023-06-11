@@ -17,8 +17,6 @@ public class Main {
             A[i] = sc.nextInt();
         }
 
-        //int[] A = arrayMemory;
-
         Solution minNum = new Solution();
         System.out.println("Smallest positive integer that is missing is: " + minNum.solution(A));
     }
